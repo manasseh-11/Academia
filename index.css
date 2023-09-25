@@ -1,0 +1,117 @@
+#main-contain-1 {
+  background-image: url(image5a.jpg);
+  color: rgb(8, 44, 32);
+  align-items: center;
+}
+.navigation-bar {
+  align-items: first baseline;
+}
+
+.btn-1 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: rgb(236, 72, 72);
+  border-color: rgb(37, 124, 201);
+}
+
+.left-item {
+  background-image: url(/images/image5a.jpg);
+  width: 33.33%;
+  float: left;
+  height: 100px;
+}
+
+.middle-item {
+  background-image: url(/images/image5a.jpg);
+
+  margin: auto;
+  height: 100px;
+  justify-items: center;
+  border: 0%;
+  margin: 0%;
+}
+.middle-item img {
+  height: 65px;
+  width: 100px;
+  object-fit: cover;
+  position: absolute;
+  left: 45%;
+}
+
+.right-item {
+  background-image: url(/images/image5a.jpg);
+  width: 33.33%;
+  height: 0%;
+  float: right;
+  color: #bf9341;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.body1 {
+  height: 700px;
+  background: url(/images/image5a.jpg) floralwhite;
+  color: rgb(210, 217, 223);
+  font-style: inherit;
+  font-family: cursive;
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.body1 img {
+  height: 120px;
+  width: 120px;
+  object-fit: contain;
+}
+.container-2 {
+  background-color: #232323;
+  float: left;
+  height: 280px;
+  width: 100%;
+  font-family: fantasy;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  color: #bf9341;
+}
+
+.btn-2 {
+  height: 33.1px;
+  width: 150.13px;
+  color: #ffffff;
+  font: 15px "DM Sans", sans-serif;
+  background-color: #b84358 !important;
+  border-color: #b84358;
+  margin: 9.6px;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.container-3 h3 {
+  height: 299.09px;
+  width: 360px;
+  font-size: 55px;
+  font-family: cursive;
+  color: #192732;
+}
+
+.inner-container-3 {
+  background-color: #ded7cd;
+  height: 515px;
+  width: 400px;
+  float: left;
+  padding: 180px 10px 20px 8.07px;
+  font: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: small;
+}
+.inner-container-3 p {
+  width: 50%;
+  float: right;
+}
+
+.img {
+  background-color: #ded7cd;
+}
